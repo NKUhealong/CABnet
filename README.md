@@ -1,1 +1,1 @@
-code will be released after the paper is accepted.
+code and model will be released after the paper is accepted.
