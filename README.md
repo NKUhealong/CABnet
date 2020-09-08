@@ -4,6 +4,8 @@ This repository contains the Keras implementation using Tensorflow as backend of
 
 ## Requirements
 
+python 3.6
+
 numpy 1.16.4
 
 keras 2.3.1
