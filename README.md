@@ -24,7 +24,8 @@ The trained model ：link : https://pan.baidu.com/s/1G2tKYNvqP7jmCl-svC1cfA  pas
 
 ## Usage
 
-1. Clone the repository, and download the trained model, put them into 'weights' folder, you can run test.py to test the model directly.
+1. Clone the repository, and download the trained model, put them into 'weights' folder, you can run test.py to test the model directly. 
+   The details of the trained model are listed in details of trained models.txt file.
 
 2. If you want to train the model, download the dataset and put them into`data` folder.
 
