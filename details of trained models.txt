@@ -1,0 +1,10 @@
+The details of the trained model are as follows:
+    
+densenet121_CAB_EyePACS.h5,vgg16_CAB_EyePACS.h5,mobilenet1.0_CAB_EyePACS.h5,Xception_CAB_EyePACS.h5 and resnet50_CAB_EyePACS.h5 are trained on
+EyePACS dataset with CABNet.
+
+
+densenet121_CAB_DDR.h5,vgg16_CAB_DDR.h5,mobilenet1.0_CAB_DDR.h5,Xception_CAB_DDR.h5 and resnet50_CAB_DDR.h5 are trained on
+DDR dataset with CABNet.
+
+densenet121_CAB_messidor.h5 ia trained on Messidor dataset.
