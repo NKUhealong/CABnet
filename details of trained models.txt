@@ -7,4 +7,4 @@ EyePACS dataset with CABNet.
 densenet121_CAB_DDR.h5,vgg16_CAB_DDR.h5,mobilenet1.0_CAB_DDR.h5,Xception_CAB_DDR.h5 and resnet50_CAB_DDR.h5 are trained on
 DDR dataset with CABNet.
 
-densenet121_CAB_messidor.h5 ia trained on Messidor dataset.
+densenet121_CAB_messidor.h5 is trained on Messidor dataset, which is a binary classification task.
