@@ -2,6 +2,18 @@
 
 This repository contains the Keras implementation using Tensorflow as backend of our paper "CABNet: Category Attention Block for Imbalanced Diabetic Retinopathy Grading"
 
+## Requirements
+
+numpy 1.16.4
+
+keras 2.3.1
+
+tensorflow 1.13.1
+
+pillow 7.0.0
+
+opencv-python 4.1.0
+
 ## Trained models
 
 The trained model ：link : https://pan.baidu.com/s/1G2tKYNvqP7jmCl-svC1cfA  password: kjga
