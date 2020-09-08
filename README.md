@@ -17,5 +17,10 @@ The trained model ：link : https://pan.baidu.com/s/1G2tKYNvqP7jmCl-svC1cfA  pas
 3.  And then run the train.py.  Note that the parameters and paths should be set beforehand
 
 4. Once the training is complete, you can run the test.py to test your model.
-## Citation
 
+## LICENSE
+### The images and the corresponding annotation results can only be used for ACADEMIC PURPOSES. NO COMERCIAL USE is allowed.
+### Copyright © College of Computer Science, Nankai University. All rights reserved.
+
+## Citation
+Along He, Tao Li, Ning Li, Kai Wang, and Huazhu Fu. CABNet: Category Attention Block for Imbalanced Diabetic Retinopathy Grading. IEEE Transactions on Medical Imaging, 2020.
