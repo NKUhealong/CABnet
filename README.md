@@ -19,6 +19,8 @@ opencv-python 4.1.0
 ## Trained models
 
 The trained model ： Baidu Yun : https://pan.baidu.com/s/1G2tKYNvqP7jmCl-svC1cfA  password: kjga
+
+
                     Google Drive：https://drive.google.com/drive/folders/1GNn3tj7WTLPjdOJUZqItui58DDQtYrsS?usp=sharing
 
 
