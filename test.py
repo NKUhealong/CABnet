@@ -36,9 +36,9 @@ custom_test=True
 
 
 if custom_test== False:   
-    model=load_model('new/'+model_name+model_id[k]+'.h5')
+    model=load_model('new/'+model_name)
 else:
-    model=load_model('new/'+model_name+model_id[k]+'.h5',custom_objects={'label_smooth': label_smooth})
+    model=load_model('new/'+model_name',custom_objects={'label_smooth': label_smooth})
 
 test_num=0
 result=np.zeros((5,5),dtype=int)
