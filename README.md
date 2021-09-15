@@ -41,4 +41,13 @@ Google Drive：https://drive.google.com/drive/folders/1GNn3tj7WTLPjdOJUZqItui58D
  Copyright © College of Computer Science, Nankai University. All rights reserved.
 
 ## Citation
-Along He, Tao Li, Ning Li, Kai Wang, and Huazhu Fu. CABNet: Category Attention Block for Imbalanced Diabetic Retinopathy Grading. IEEE Transactions on Medical Imaging, 2020.
+@article{he2020cabnet,
+  title={CABNet: Category attention block for imbalanced diabetic retinopathy grading},
+  author={He, Along and Li, Tao and Li, Ning and Wang, Kai and Fu, Huazhu},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={40},
+  number={1},
+  pages={143--153},
+  year={2020},
+  publisher={IEEE}
+}
