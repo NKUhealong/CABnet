@@ -41,13 +41,13 @@ Google Drive：https://drive.google.com/drive/folders/1GNn3tj7WTLPjdOJUZqItui58D
  Copyright © College of Computer Science, Nankai University. All rights reserved.
 
 ## Citation
-@article{he2020cabnet,
-  title={CABNet: Category attention block for imbalanced diabetic retinopathy grading},
-  author={He, Along and Li, Tao and Li, Ning and Wang, Kai and Fu, Huazhu},
-  journal={IEEE Transactions on Medical Imaging},
-  volume={40},
-  number={1},
-  pages={143--153},
-  year={2020},
-  publisher={IEEE}
+@article{he2020cabnet,<br/>
+  title={CABNet: Category attention block for imbalanced diabetic retinopathy grading},<br/>
+  author={He, Along and Li, Tao and Li, Ning and Wang, Kai and Fu, Huazhu},<br/>
+  journal={IEEE Transactions on Medical Imaging},<br/>
+  volume={40},<br/>
+  number={1},<br/>
+  pages={143--153},<br/>
+  year={2020},<br/>
+  publisher={IEEE}<br/>
 }
