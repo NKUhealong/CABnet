@@ -20,7 +20,6 @@ opencv-python 4.1.0
 
 The trained model ： Baidu Yun : https://pan.baidu.com/s/1G2tKYNvqP7jmCl-svC1cfA  password: kjga <br>
 Google Drive：https://drive.google.com/drive/folders/1GNn3tj7WTLPjdOJUZqItui58DDQtYrsS?usp=sharing
-半监督   https://github.com/HiLab-git/SSL4MIS
 
 
 
