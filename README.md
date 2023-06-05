@@ -39,7 +39,9 @@ Google Drive：https://drive.google.com/drive/folders/1GNn3tj7WTLPjdOJUZqItui58D
 ## LICENSE
  Code can only be used for ACADEMIC PURPOSES. NO COMERCIAL USE is allowed.
  Copyright © College of Computer Science, Nankai University. All rights reserved.
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=baaivision/Painter&type=Date)](https://star-history.com/#baaivision/Painter&Date)
 ## Citation
 @article{he2020cabnet,<br/>
   title={CABNet: Category attention block for imbalanced diabetic retinopathy grading},<br/>
